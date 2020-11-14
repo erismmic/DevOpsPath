@@ -4,10 +4,17 @@
 
 DevOps Prototype
 * Understandin g DevOps by doingMichel     
-       Michel ERismann Hallo wie geht es euch
-Michel Erismsnn       
+       Michel Erismann Hallo wie geht es euch
+Michel Erismann   
+
+TEst 3
             it :-)
+<<<<<<< HEAD
+* Riccardo: Danke mir geht es gut und dir? Mir auch
+=======
 * Riccardo: Danke mir geht es gut und dir?
+* Wir erzeugen jetzt einen Konflikt =)
+>>>>>>> 6b5737a53d0035c0b363746127d833227b988c12
 
 ## Required Tools
 * Git (https://git-scm.com/)
