@@ -3,7 +3,10 @@
 ### DevOpsStarter
 
 DevOps Prototype
-* Understanding DevOps by doing it :-)
+* Understandin g DevOps by doingMichel     
+       Michel ERismann Hallo wie geht es euch
+Michel Erismsnn       
+            it :-)
 
 ## Required Tools
 * Git (https://git-scm.com/)
