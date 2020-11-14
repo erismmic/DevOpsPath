@@ -7,6 +7,7 @@ DevOps Prototype
        Michel ERismann Hallo wie geht es euch
 Michel Erismsnn       
             it :-)
+* Riccardo: Danke mir geht es gut und dir?
 
 ## Required Tools
 * Git (https://git-scm.com/)
